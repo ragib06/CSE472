@@ -1,6 +1,0 @@
-download
-https://sites.google.com/site/cse472aug2011/assignments/assignment2k-nearestneighborfortextclassification/reuter.zip
-
-extract and put the following files in this directory:
-traininng.data
-test.data

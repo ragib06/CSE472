@@ -1,0 +1,38 @@
+Training docs     : 5949
+Total words       : 23767
+Test docs         : 2349
+
+
+Hamming Distance  :
+------------------
+Accuracy (k=1)    : 70.50%
+Accuracy (k=2)    : 70.50%
+Accuracy (k=3)    : 70.50%
+Accuracy (k=4)    : 69.05%
+Accuracy (k=5)    : 68.58%
+Accuracy (k=6)    : 68.37%
+Accuracy (k=7)    : 67.99%
+
+
+Euclidean Distance:
+------------------
+Accuracy (k=1)    : 78.42%
+Accuracy (k=2)    : 78.42%
+Accuracy (k=3)    : 78.42%
+Accuracy (k=4)    : 78.63%
+Accuracy (k=5)    : 78.25%
+Accuracy (k=6)    : 78.50%
+Accuracy (k=7)    : 78.29%
+
+
+Cosine Similarity :
+------------------
+Accuracy (k=1)    : 82.08%
+Accuracy (k=2)    : 82.08%
+Accuracy (k=3)    : 82.08%
+Accuracy (k=4)    : 83.99%
+Accuracy (k=5)    : 85.10%
+Accuracy (k=6)    : 85.14%
+Accuracy (k=7)    : 85.44%
+
+Execution time    : 1m 59s

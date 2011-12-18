@@ -1,0 +1,17 @@
+Training docs     : 5949
+Train words       : 23147
+Test docs         : 2349
+Total words       : 27415
+Total classes     : 59
+
+mean(cosine)      : 85.84%
+mean(bayes)       : 83.36%
+
+sd(cosine)        : 3.92%
+sd(bayes)         : 5.48%
+
+t-test(0.005)     : -4.58% -0.38%
+t-test(0.01)      : -4.37% -0.59%
+t-test(0.05)      : -3.80% -1.16%
+
+Execution time    : 1m 22s
